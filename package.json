@@ -10,15 +10,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/MarianaOA15/proyectopwii.git"
+        "url": "git+https://github.com/Erorck/Bisonet_API_Deploy.git"
     },
     "keywords": [],
     "author": "Andre",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/MarianaOA15/proyectopwii/issues"
+        "url": "https://github.com/Erorck/Bisonet_API_Deploy.git/issues"
     },
-    "homepage": "https://github.com/MarianaOA15/proyectopwii#readme",
+    "homepage": "https://github.com/Erorck/Bisonet_API_Deploy.git#readme",
     "devDependencies": {
         "eslint": "^8.36.0",
         "eslint-config-prettier": "^8.8.0",
